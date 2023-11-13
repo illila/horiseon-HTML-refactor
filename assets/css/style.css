@@ -59,12 +59,12 @@ p {
     background-position: center;
 }
 
-.float-left {
+.left-img {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.right-img {
     float: right;
     margin-left: 25px;
 }
